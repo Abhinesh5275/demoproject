@@ -1,1 +1,2 @@
-echo "Wlcome to the demo project"
+echo "Welcome to the demo project"
+echo "This is an updated version"
